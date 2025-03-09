@@ -1,4 +1,5 @@
 Tinder MITM Proxy
+
 This project implements a custom MITM (Man-in-the-Middle) proxy using mitmproxy. It is designed to intercept Tinder API requests and modify geolocation data—specifically replacing latitude and longitude values with those for Williamsburg, Brooklyn—while passing all other traffic unmodified.
 
 Features
